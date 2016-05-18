@@ -1,0 +1,24 @@
+{
+  "name": "oc_new",
+  "description": "oc moni",
+  "main": "index.js",
+  "authors": [
+    "yicj"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "oc"
+  ],
+  "homepage": "https://github.com/yichengjie/oc_new",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/component",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
